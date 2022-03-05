@@ -1,8 +1,10 @@
 # Agência
 
 ## Sobre o projeto.
-Site simples de uma agência, podendo ser moldada para qualquer projeto. <br><br>
-Data de conclusão: 10/12/2021<br><br>
+Site simples de uma agência, podendo ser moldada para qualquer projeto. Com formulário de contato.
+
+Data de conclusão: 10/12/2021
+
 ## Ferramentas e tecnologias usadas nesse projeto.
  
 ```js
