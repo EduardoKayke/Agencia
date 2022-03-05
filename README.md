@@ -8,7 +8,7 @@ Data de conclusão: 10/12/2021
 ## Ferramentas e tecnologias usadas nesse projeto.
  
 ```js
-function ExactTime(Project) {
+function Agencia(Project) {
     if (Front End) {
         const Stack = `${HTML}, ${CSS}`;
     } else (Framework) {
